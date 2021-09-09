@@ -1,4 +1,4 @@
-# skillbox_flutter_module3_task1
+# skillbox_flutter_module3
 
 A new Flutter project.
 
